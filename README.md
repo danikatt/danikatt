@@ -15,7 +15,7 @@
 <h2>🔭 We are currently working on Naval Shipbuilding projects</pre>
 
 ![TakingOffAirplaneGIF](https://github.com/danikatt/danikatt/assets/80234872/83da1104-dff6-462e-b37b-aea5f3632a61)
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Maharaja Lela-class frigate]
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Maharaja Lela-class frigate]
 <pre>
 <h2>We are open to new business opportunities. 🙌</h2>
 <h3>🫡 Hope to see you soon. 🤗</h3></pre>
