@@ -11,8 +11,7 @@
 😎 Fun fact : I used to be a Cabin crew for many years.
 
 🔭 We are currently working on Naval Shipbuilding projects : Maharaja Lela-class frigate. 
-<center>![TakingOffAirplaneGIF](https://github.com/danikatt/danikatt/assets/80234872/83da1104-dff6-462e-b37b-aea5f3632a61)</center>
-
+![TakingOffAirplaneGIF](https://github.com/danikatt/danikatt/assets/80234872/83da1104-dff6-462e-b37b-aea5f3632a61)
 
 <!--
 **danikatt/danikatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
