@@ -5,7 +5,7 @@
 👩‍💻 I am studying Data Analytics.
 
 <br>🧭 I am looking to collaborate with members in batch 32.
-&nbsp;🚩 I am looking for help with overall programming languages.
+<br>🚩 I am looking for help with overall programming languages.
 <br>
 <br>🤩 Ask me about... having a coffee or tea time together.
 <br>📫 How to reach me : via flykate@nate.com
