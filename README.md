@@ -10,7 +10,8 @@
 🤗 Hot to reach me : via Email_flykate@nate.com
 😎 Fun fact : I used to be a Cabin crew for many years.
 
-🔭 We are currently working on Naval Shipbuilding projects : Maharaja Lela-class frigate. ![TakingOffAirplaneGIF](https://github.com/danikatt/danikatt/assets/80234872/83da1104-dff6-462e-b37b-aea5f3632a61)
+🔭 We are currently working on Naval Shipbuilding projects : Maharaja Lela-class frigate. 
+<center>![TakingOffAirplaneGIF](https://github.com/danikatt/danikatt/assets/80234872/83da1104-dff6-462e-b37b-aea5f3632a61)</center>
 
 
 <!--
