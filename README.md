@@ -13,6 +13,10 @@
 🔭 We are currently working on Naval Shipbuilding projects : Maharaja Lela-class frigate. 
 ![TakingOffAirplaneGIF](https://github.com/danikatt/danikatt/assets/80234872/83da1104-dff6-462e-b37b-aea5f3632a61)
 
+We are open to new business opportunities. 🙌
+
+🫡 Hope to see you soon. 🤗
+
 <!--
 **danikatt/danikatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
